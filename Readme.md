@@ -73,6 +73,7 @@ The main reason for me to make WALDO free has in fact been discovering all these
 ---------------------------------------------------------------------                                                                                                                                                               
 
 FOR AI NERDS !
+## By Mudassir Alam
 
 It's a set of YOLOv8 model, trained on my own datasets of synthetic and "augmented" / semi-synthetic data.
 I'm not going to release the dataset for the time being.
